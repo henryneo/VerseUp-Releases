@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="branding/verseup-logo.png" alt="VerseUp" width="160">
+  <img src="verseup-logo.png" alt="VerseUp" width="160">
 </p>
 
 <h1 align="center">VerseUp</h1>
